@@ -13,4 +13,9 @@
 */
 body {
 	font-family: Consolas, monospace;
+	font-size:120%;
+	background-color:#000000;
+}
+.wrapper{
+	padding:0.5em;
 }
